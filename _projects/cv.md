@@ -7,7 +7,7 @@ publications:
     title: "SLAM using factor graphs"
     authors: "Rachith Prakash"
     links:
-      img: /projects/slam/sqaure_with_gtsam.jpg
+      img: /projects/slam/sqaure_with_gtsam.JPG
       preprint: /projects/slam/report.pdf
       code: //github.com/RachithP/Computer-Vision/tree/master/SLAM
 
@@ -22,7 +22,7 @@ publications:
     title: "Adobe Roto Brush (video snapcut)"
     authors: "Rachith Prakash"
     links:
-      img: /projects/snapcut/gym.JPG
+      img: /projects/snapcut/gym.jpg
       preprint: /projects/snapcut/report.pdf
       code: //github.com/RachithP/Computer-Vision/tree/master/video_snapcut
 
