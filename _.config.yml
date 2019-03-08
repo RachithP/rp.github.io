@@ -1,0 +1,26 @@
+# Site Settings
+title:               "Rachith Prakash"
+tagline:             
+description:         
+baseurl:             # /
+url: 			           
+github:
+  repo:              "https://github.com/RachithP/rachithp.github.io"
+author: 
+  name:              "Rachith Prakash"
+  email:             
+  twitter:           "rachithp"
+  github:            "rachithp"
+  linkedin:          "rachithprakash"
+paginate:            15
+paginate_path:       "/blog/page:num/"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           pretty
+plugins:             [jekyll-paginate]
+
+# Collections
+collections:
+  - projects
