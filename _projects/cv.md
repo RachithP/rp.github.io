@@ -7,7 +7,7 @@ publications:
     title: "SLAM using factor graphs"
     authors: "Rachith Prakash"
     links:
-      img: /projects/slam/sqaure_with_gtsam.jpg
+      img: /projects/slam/sqaure_with_gtsam.JPG
       preprint: /projects/slam/report.pdf
       code: //github.com/RachithP/Computer-Vision/tree/master/SLAM
 
@@ -15,7 +15,7 @@ publications:
     title: "Canny Edge detector"
     authors: "Rachith Prakash"
     links:
-      img: /projects/canny/zebra.jpg
+      img: /projects/canny/zebra.JPG
       code: //github.com/RachithP/Computer-Vision/tree/master/CannyEdgeDetector
 
   - date: 2018-10
@@ -30,7 +30,7 @@ publications:
     title: "2-D Panaroma Stitching"
     authors: "Rachith Prakash"
     links:
-      img: /projects/pano/museum.jpg
+      img: /projects/pano/museum.JPG
       preprint: /projects/pano/report.pdf
       code: //github.com/RachithP/Computer-Vision/tree/master/Panaroma_Stitching
 
