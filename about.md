@@ -6,7 +6,7 @@ order: 1
 ---
 
 <div>
-<img class="col one right" style="border-radius: 25px" src="/assets/imgs/about.jpg">
+<img class="col one right" style="border-radius: 25px" src="/assets/img/about.jpg">
 <p>
 My research interests are to develop autonomous navigational capability for aerial robots.
 </p>
