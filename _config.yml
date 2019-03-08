@@ -1,20 +1,20 @@
 # Site Settings
-title:               "Lee Clement"
-tagline:             "Ph.D. Candidate in Robotics at the University of Toronto"
-description:         "Lee Clement is a Ph.D. Candidate in Robotics at the University of Toronto, supervised by Prof. Jonathan Kelly. His research interests include mobile robotics, state estimation, computer vision and machine learning."
+title:               "Rachith Prakash"
+tagline:             "Masters Candidate in Robotics at the University of Maryland, College Park"
+description:         
 baseurl:             # /
-url: 			           # http://leeclem.net
+url: 			           
 github:
-  repo:              "https://github.com/leeclemnet/leeclemnet.github.io"
+  repo:              "https://github.com/rachithp/rachithp.github.io"
 author:
-  name:              "Lee Clement"
-  email:             "lee.clement@mail.utoronto.ca"
-  twitter:           "leeclemnet"
+  name:              "Rachith Prakash"
+  email:             
+  twitter:           "314159265358980"
   instagram:         
-  github:            "leeclemnet"
+  github:            "rachithp"
   facebook:          
-  linkedin:          "leeclemnet"
-  scholar:           "skVilbAAAAAJ"
+  linkedin:          "rachithprakash"
+  scholar:           
 paginate:            15
 paginate_path:       "/blog/page:num/"
 
