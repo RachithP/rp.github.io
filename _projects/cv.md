@@ -30,7 +30,7 @@ publications:
     title: "2-D Panaroma Stitching"
     authors: "Rachith Prakash"
     links:
-      img: /projects/pano/museum.JPG
+      img: /projects/pano/pano.jpg
       preprint: /projects/pano/report.pdf
       code: //github.com/RachithP/Computer-Vision/tree/master/Panaroma_Stitching
 
