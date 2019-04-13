@@ -1,5 +1,5 @@
 ---
-title: Robotics Projects
+title: Robotics; motion-planning, controls
 order: 2
 
 publications:
