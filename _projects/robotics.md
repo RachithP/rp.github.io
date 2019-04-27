@@ -32,7 +32,7 @@ publications:
     title: "8 Puzzle problem using Breadth First Search"
     authors: "Rachith Prakash"
     links:
-      img: //github.com/RachithP/fun-stuff/blob/master/BFS-8-puzzle-problem/visualization.png
+      img: /projects/motion-planning/8puzzle_visualization.png
       video: //github.com/RachithP/fun-stuff/blob/master/BFS-8-puzzle-problem/Example/visualization.gif
       code: //github.com/RachithP/fun-stuff/tree/master/BFS-8-puzzle-problem
       
@@ -40,7 +40,7 @@ publications:
     title: "Gazebo Simulation of A-star on Turtlebot3"
     authors: "Rachith Prakash"
     links:
-      img: //github.com/RachithP/motion-planning/blob/master/A-star/non-holonomic_robot/output/output.png
+      img: /projects/motion-planning/astar_diff_drive.png
       video: //github.com/RachithP/motion-planning/blob/master/A-star/non-holonomic_robot/output/astar.gif
       code: //github.com/RachithP/turtlebot3-waffle
 ---
