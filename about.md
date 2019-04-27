@@ -8,6 +8,7 @@ order: 1
 <div>
 <img class="col one right" style="border-radius: 25px" src="/assets/img/about.jpg">
 <p>
+Currently pursuing Masters in Robotics at the University of Maryland, College Park. </br>
 My research interests are in developing autonomous navigational capability for mobile robots. 
 </p>
 <p>
