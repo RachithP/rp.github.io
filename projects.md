@@ -5,7 +5,7 @@ order: 2
 ---
 <hr/>
 
-The following is a complete list of my academic projects.
+The following contains list of several projects during my voyage into Robotics.
 
 <hr/>
 
