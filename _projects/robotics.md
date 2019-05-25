@@ -44,11 +44,11 @@ publications:
       video: //github.com/RachithP/motion-planning/blob/master/A-star/non-holonomic_robot/output/astar.gif
       code: //github.com/RachithP/turtlebot3-waffle
 
- - date: 2019-05
-   title: "Traffic sign detection, Belgian Traffic Sign Classification Benchmark dataset"
-   authors: "Rachith Prakash, Ashwin Kurrutukulam"
-   links:
-     img: /projects/traffic-sign-detection/classification.png
-     video: //www.youtube.com/watch?v=_7tjsoGg6WI&feature=youtu.be
-     code: //github.com/RachithP/traffic-sign-recognition
+  - date: 2019-05
+    title: "Traffic sign detection, Belgian Traffic Sign Classification Benchmark dataset"
+    authors: "Rachith Prakash, Ashwin Kurrutukulam"
+    links:
+      img: /projects/traffic-sign-detection/classification.png
+      video: //www.youtube.com/watch?v=_7tjsoGg6WI&feature=youtu.be
+      code: //github.com/RachithP/traffic-sign-recognition
 ---
