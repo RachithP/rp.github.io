@@ -51,4 +51,13 @@ publications:
       img: /projects/traffic-sign-detection/classification.png
       video: //www.youtube.com/watch?v=_7tjsoGg6WI&feature=youtu.be
       code: //github.com/RachithP/traffic-sign-recognition
+      preprint: //github.com/RachithP/traffic-sign-recognition/blob/master/Project%206%20-%20ENPM%20673.pdf
+      
+  - date: 2019-05
+    title: "Coverage Path Planning with Quadcopters!"
+    authors: "Rachith Prakash, Ashwin Kurrutukulam, Mithun Bharadwaj"
+    links:
+      img: /projects/motion-planning/vrep_quad_explore.jpg
+      code: //github.com/RachithP/vrep_quad_exploration
+      preprint: //github.com/RachithP/vrep_quad_exploration/blob/master/Coverage_Planning_with_Multicopters.pdf
 ---
