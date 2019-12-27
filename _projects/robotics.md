@@ -1,6 +1,6 @@
 ---
 title: Robotics; motion-planning, controls
-order: 2
+order: 3
 
 publications:
   - date: 2018-11
@@ -60,4 +60,18 @@ publications:
       img: /projects/motion-planning/vrep_quad_explore.jpg
       code: //github.com/RachithP/vrep_quad_exploration
       preprint: //github.com/RachithP/vrep_quad_exploration/blob/master/Coverage_Planning_with_Multicopters.pdf
+      
+  - date: 2019-11
+    title: "Dijkstra with MMSimulator (C++ implementation)"
+    authors: "Rachith Prakash"
+    links:
+      img: /projects/motion-planning/dijkstra.gif
+      code: //github.com/RachithP/planning-in-robotics/tree/master/dp-with-mms
+      
+  - date: 2019-09
+    title: "TSP optmization (C++ implementation)"
+    authors: "Rachith Prakash"
+    links:
+      img: /projects/motion-planning/eil101.gif
+      code: //github.com/RachithP/planning-in-robotics/tree/master/tsp
 ---
