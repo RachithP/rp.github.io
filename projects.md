@@ -2,12 +2,8 @@
 layout: page
 title: Projects
 order: 2
+description: The following contains list of several projects during my voyage into Robotics.
 ---
-<hr/>
-
-The following contains list of several projects during my voyage into Robotics.
-
-<hr/>
 
 <div>
 {% assign sorted_projects = site.projects | sort:"order" %}
