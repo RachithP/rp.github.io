@@ -14,7 +14,7 @@ order: 3
         {{ post.excerpt }}
       </div>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More...</a>
-      <br><\br>
+      <br>
     </article>
   {% endfor %}
 </div>
