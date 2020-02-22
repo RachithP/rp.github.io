@@ -1,13 +1,9 @@
 ---
 layout: page
 title: Blog
+description: Happy reading! ;)
 order: 3
 ---
-<hr/>
-
-Happy reading! ;)
-
-<hr/>
 
 <div class="posts">
   {% for post in site.posts %}
