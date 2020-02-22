@@ -27,7 +27,7 @@ plugins:             [jekyll-paginate]
 # Collections
 collections:
   - projects
-  - blog
+  - posts
 
 # Exclude these files from your production _site
 exclude:
