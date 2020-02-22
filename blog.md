@@ -12,8 +12,9 @@ order: 3
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <div class="entry">
         {{ post.excerpt }}
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More...</a>
+      <br><\br>
     </article>
   {% endfor %}
 </div>
