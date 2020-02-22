@@ -7,13 +7,12 @@ layout: default
   <h2>
     <br/>{{ site.tagline }}</h2>
   <br/>
-  <h3>{{ site.title }}</h3>
   <hr>
   <!-- <br/> -->
 </div>
 
 <article class="post-content">
-  <br/> {{ site.pages | where: "title", "Home"}}
+  <br/> {{ site.pages | where: "title", "Hojjme"}}
   <br/>
   <hr/>
   <br/>
@@ -38,18 +37,3 @@ layout: default
     </a>
   </span>
 </article>
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
