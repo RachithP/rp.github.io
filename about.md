@@ -9,7 +9,7 @@ order: 1
 <img class="col one right" style="border-radius: 25px" src="/assets/img/about.jpg">
   
 <p>
-I'm currently working at Intel Intelligent Systems Lab under <a href="http://vladlen.info/">Dr. Vladlen Koltun</a>. I work on interesting challenges in Robotics. I graduated (May 2020) with a Masters in Robotics from the University of Maryland, College Park.
+I'm currently working at Intel Intelligent Systems Lab under <a href="http://vladlen.info/">Dr. Vladlen Koltun</a>. I work on interesting challenges in Robotics. I graduated (May 2020) with a <a href="https://robotics.umd.edu/">Masters in Robotics</a> from the <a href="https://eng.umd.edu/">University of Maryland, College Park</a>.
 </p>
 
 <p>
