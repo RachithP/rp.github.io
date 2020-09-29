@@ -6,7 +6,7 @@ order: 1
 ---
 
 <div>
-<img class="col left two" style="width:50;height:80" src="/assets/img/about.jpg">
+<img class="col left two" style="height:60" src="/assets/img/about.jpg">
   
 <p>
 I'm currently working at Intel Intelligent Systems Lab under <a href="http://vladlen.info/">Dr. Vladlen Koltun</a>. I work on interesting challenges in Robotics. I graduated (May 2020) with a <a href="https://robotics.umd.edu/">Masters in Robotics</a> from the <a href="https://eng.umd.edu/">University of Maryland, College Park</a>.
