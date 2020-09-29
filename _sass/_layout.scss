@@ -91,7 +91,7 @@ width:100%;
  * Pagination   **********************************************************
  */
 .pagination{
-max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit}));
+max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
 text-align: center;
 width: 100%;
 position: fixed;
@@ -271,9 +271,6 @@ width: 66.66%;
 }
 .three{
 width: 100%;
-}
-.hone{
-height: 50%;
 }
 .caption{
 height: 100%;
