@@ -200,10 +200,10 @@ pre {
  */ 
 
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
-    max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
-    margin-right: 100px;
-    margin-left: 100px;
+    max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit}));
+    max-width:         calc(800px - (#{$horizontal-spacing-unit}));
+    margin-right: auto;
+    margin-left: auto;
     padding-right: $horizontal-spacing-unit;
     padding-left: $horizontal-spacing-unit;
     @extend %clearfix;
@@ -228,6 +228,3 @@ pre {
         clear: both;
     }
 }
-
-
-
