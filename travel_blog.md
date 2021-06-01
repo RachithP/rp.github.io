@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Travel Blog
-description: My adventures (consised ofcourse ;)) so far...
+description: Lots more to explore! Hang in there for more ...
 order: 4
 ---
 
