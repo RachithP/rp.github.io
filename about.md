@@ -11,7 +11,7 @@ I'm a research engineer at Intel. My interests and experiences are shaped around
 
 <p class="col">
 <ul>
-<li>[06/2024] SPEAR made its 5th open-source release! Check it out <a href="https://github.com/spear-sim/spear/releases/tag/v0.5.0">here</a>.<li>
+<li>[06/2024] SPEAR made its 5th open-source release! Check it out <a href="https://github.com/spear-sim/spear/releases/tag/v0.5.0">here</a>.</li>
 <li>[10/2023] Presented SPEAR at the Intel Labs Open House event.</li>
 <li>[12/2022] SPEAR is now open-source!! 🥳</li>
 <li>[10/2020] Building <a href="https://github.com/spear-sim/spear">SPEAR - A Simulator for Photorealistic Embodied AI Research </a> from the ground up!</li>
